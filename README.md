@@ -1,6 +1,6 @@
 # AI& ML Data Science Telegram News Bot
 
-Telegram bot fetches the latest news related to Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) from various RSS feeds and posts them to a specified Telegram channel.
+Telegram bot fetches the latest news related to Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) from various articles and posts them to a specified Telegram channel.
 
 ## Features
 - Fetches news from top AI/ML/DS blogs and websites.
